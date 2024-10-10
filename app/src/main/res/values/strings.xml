@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daniel_Threads</string>
+
+    <string name="txtContador">0</string>
+    <string name="btnInicio">Inicio</string>
+    <string name="btnDetener">Detener</string>
+
+</resources>
